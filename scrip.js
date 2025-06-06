@@ -1,0 +1,1 @@
+alert("Welcome booking page ");
